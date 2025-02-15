@@ -1,4 +1,4 @@
-module github.com/otakakot/magic-linc
+module github.com/otakakot/sample-go-magic-linc
 
 go 1.24.0
 
